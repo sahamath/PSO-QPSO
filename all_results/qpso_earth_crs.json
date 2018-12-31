@@ -1,0 +1,36 @@
+{
+    "Earth": {
+        "pareto_front": [
+            {
+                "objectives": {
+                    "interior_score": 1.0,
+                    "surface_score": 1.0
+                },
+                "variables": {
+                    "alpha": 0.6270548708082644,
+                    "beta": 0.37294512919173556,
+                    "delta": 0.49417898358479634,
+                    "gamma": 0.5058210164152037,
+                    "C": 0.7880952793617678
+                }
+            }
+        ]
+    },
+    "Earth1.01": {
+        "pareto_front": [
+            {
+                "objectives": {
+                    "interior_score": 1.01,
+                    "surface_score": 1.01
+                },
+                "variables": {
+                    "alpha": 0.4583556472845121,
+                    "beta": 0.5416443527154878,
+                    "delta": 0.38226955660933915,
+                    "gamma": 0.617730443390661,
+                    "C": 0.8340020655882864
+                }
+            }
+        ]
+    }
+}
